@@ -1,0 +1,46 @@
+{
+  "files": {
+    ".replit": [
+      {
+        "id": "c7eede9d-73f1-40f1-8234-ab2ffef916b9",
+        "line": 2,
+        "version": 35,
+        "index": 21
+      },
+      {
+        "id": "274da5b2-4aa1-4766-b8fe-686464a47e61",
+        "line": 2,
+        "version": 35,
+        "index": 47
+      }
+    ],
+    "src": [
+      {
+        "id": "74f3d6ba-ddab-4520-ba08-4fabac0cf414",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "src/main.py": [
+      {
+        "id": "3091e598-96f0-45f9-90ed-e7f5d975fda1",
+        "line": 1,
+        "version": 96,
+        "index": 0
+      },
+      {
+        "id": "3b82157d-a5a6-4f3f-9e58-26d2f94bc52d",
+        "line": 5,
+        "version": 96,
+        "index": 29
+      },
+      {
+        "id": "0992b0f3-dcb5-4988-82ec-0199fff837cb",
+        "line": 10,
+        "version": 96,
+        "index": 67
+      }
+    ]
+  }
+}
